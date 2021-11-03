@@ -1,0 +1,22 @@
+package selfProgramming;
+
+public class Exercise1e {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int num=50;
+		System.out.println ("Number is " + num);
+		
+    // Increment number
+		num++;
+		System.out.println ("Now number is " + num);
+		
+    // Decrement number
+		num--;
+		System.out.println ("Now number is " + num);
+		
+		
+	}
+
+}
